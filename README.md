@@ -20,8 +20,12 @@ Simple mobile calculator app built with **React Native** and **Expo**, creada co
 
 - **React Native**
 - **Expo**
-- **TypeScript** (si tu proyecto lo usa)
-- Hooks de React (`useState`, etc.)
+- **TypeScript**
+- Hooks de React
+
+---
+
+- **Demo (Expo):** https://expo.dev/accounts/ggsaavedra/projects/calculator-gsaavedra
 
 ---
 

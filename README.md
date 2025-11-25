@@ -32,3 +32,4 @@ Simple mobile calculator app built with **React Native** and **Expo**, creada co
 ```bash
 git clone https://github.com/GGustavoSaavedra/calculator-app.git
 cd calculator-app
+```
